@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
 Route::get('/carrito', function () {
     return view('carrito');
 });
@@ -85,7 +86,6 @@ Route::get('/manual', function () {
     return view('/manual');
 });
 
-
 Route::get('/prodartesania', function () {
     return view('/prodartesania');
 });
@@ -93,12 +93,17 @@ Route::get('/prodarte', function () {
     return view('/prodarte');
 });
 Route::get('/prodmanual', function () {
-    return view('/manual');
+    return view('/prodmanual');
 });
 Route::get('/prodcarrito', function () {
     return view('/prodcarrito');
 });
 
-Auth::routes();
+Route::get('/principal', function () {
+    return view('principal');
+});
+Route::get('/homeland', function () {
+    return view('homeland');
+});
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
