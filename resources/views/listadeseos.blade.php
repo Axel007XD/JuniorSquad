@@ -40,7 +40,7 @@
 </nav>
         <!--boton que te lleva de nuevo al Home-->
         <form>
-            <button type="button"><a href="/principal"> Volver</a></button>
+            <button type="button"><a href="/"> Volver</a></button>
         </form>
        <form>
 <!--Lista de productos que te llevan a un producto en especifico-->

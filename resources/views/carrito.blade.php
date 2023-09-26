@@ -42,7 +42,7 @@
 
      <!--boton que te lleva de nuevo al Home-->
      <form class="volver">
-        <button type="button"><a href="/principal"> Volver</a></button>
+        <button type="button"><a href="/"> Volver</a></button>
     </form>
 
 

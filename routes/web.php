@@ -99,11 +99,5 @@ Route::get('/prodcarrito', function () {
     return view('/prodcarrito');
 });
 
-Route::get('/principal', function () {
-    return view('principal');
-});
-Route::get('/homeland', function () {
-    return view('homeland');
-});
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
