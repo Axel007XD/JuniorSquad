@@ -43,7 +43,7 @@
             <button type="button"><a href="/"> Volver</a></button>
         </form>
        <form>
-        <div>
+        <div class="categorias" >
               <!--Lista que te lleva a una categoria (con imagenes)-->
               <a href="/arte">
            
@@ -54,6 +54,7 @@
            
                     <img src="img/jarron barro proc.jpg" width="100px" height="100px">
                     <h4>Artesania</h4> </a>
+                    
                     <a href="/manual">
            
                         <img src="img/tejido.jpg" width="100px" height="100px">

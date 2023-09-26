@@ -34,7 +34,7 @@
        <form>
         <div>
             <h1>Productos comprados</h1>
-            <ul>
+            <ul class="listaprod" >
                 <li><a href="/prodhist">Producto 1</a></li>
                 <li><a href="/prodhist">Producto 2</a></li>
         

@@ -40,11 +40,11 @@
 </nav>
 
      <!--boton que te lleva de nuevo al Home-->
-     <form>
-        <button type="button"><a href="/"> Volver</a></button>
+     <form >
+        <button class="volver" type="button"><a href="/"> Volver</a></button>
     </form>
 
-    <ul>
+    <ul class="containermenu" >
         <li><a href="/tiendas">Tiendas</a></li>
         <li><a href="/historial">Compras</a></li>
         <li><a href="/mensaje">Mensajes</a></li>

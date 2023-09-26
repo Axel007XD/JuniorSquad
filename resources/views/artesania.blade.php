@@ -43,7 +43,7 @@
             <button type="button"><a href="/categorias"> Volver</a></button>
         </form>
     <h1>ARTESANIA</h1>
-    <ul>
+    <ul class="artesania" >
         <li><a href="/prodartesania">Producto 1</a></li>
         <li><a href="/prodartesania">Producto 2</a></li>
 

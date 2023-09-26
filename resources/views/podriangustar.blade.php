@@ -41,11 +41,11 @@
 
         <!--boton que te lleva de nuevo al Home-->
         <form>
-            <button type="button"><a href="/principal"> Volver</a></button>
+            <button type="button"><a href="/"> Volver</a></button>
         </form>
        <form>
 <!--Lista de productos que te llevan a un producto en especifico-->
-        <ul>
+        <ul class="podriangustar" >
             <li><a href="/prodpodrian">Producto 1</a></li>
             <li><a href="/prodpodrian">Producto 3</a></li>
             <li><a href="/prodpodrian">Producto 2</a></li>

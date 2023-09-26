@@ -30,7 +30,8 @@
             <button type="button"><a href="/mensaje"> Volver</a></button>
         </form>
        <form>
-        <div>   <h1>Mensaje de usuario</h1>
+        <div class="contmensaje"> 
+              <h1>Mensaje de usuario</h1>
             <h3>Detalles de mensaje</h3>
         
            

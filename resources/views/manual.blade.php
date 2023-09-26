@@ -44,7 +44,7 @@
         </form>
         <h1>MANUAL</h1>
     
-    <ul>
+    <ul class="manual" >
         <li><a href="/prodmanual">Producto 2</a></li>
         <li><a href="/prodmanual">Producto 2</a></li>
 

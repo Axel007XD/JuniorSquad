@@ -44,7 +44,7 @@
         </form>
        <form>
 <!--Lista de productos que te llevan a un producto en especifico-->
-        <ul>
+        <ul class="deseos">
             <li><a href="/productodeseos">Producto 1</a></li>
             <li><a href="/productodeseos">Producto 3</a></li>
             <li><a href="/productodeseos">Producto 2</a></li>

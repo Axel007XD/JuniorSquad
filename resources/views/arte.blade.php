@@ -44,7 +44,7 @@
         </form>
         <h1>ARTE</h1>
     
-    <ul>
+    <ul  class="arte">
         <li><a href="/prodarte">Producto 1</a></li>
         <li><a href="/prodarte">Producto 2</a></li>
 

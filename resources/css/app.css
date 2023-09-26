@@ -207,10 +207,12 @@ a img{
   height: 100px;
 }
 .containercarrito{
-    background-color: #ffffff;
+    background-color: #f5f5f5;
     font-size: 20px;
     border-radius: 50px;
     margin-top: 30px;
+    width: 600px;
+    margin-left: 60px;
 }
 
 .containercarrito li{
@@ -218,10 +220,11 @@ a img{
     margin-left: 20px;
     margin-bottom: 10px;
     width: 600px;
+    padding: 0;
 }    
 
 ul li a.producto1{
-    margin-top: 20px;
+    margin-top: 50px;
     padding-top: 30px;
 }
 ul.containercarrito li{
@@ -296,3 +299,193 @@ ul li{
     position: relative;
     margin-bottom: 30px;
 }
+.containermenu{
+    background-color: white;
+    width: 600px;
+    height: 200px;
+    border-radius: 30px;
+}
+.containermenu li{
+    padding-top: 20px;
+    margin-top: 20px;
+}
+.listaprod{
+    background-color: #f5f5f5;
+    border-radius: 30px;
+}
+.listaprod li{
+    padding: 10px;
+}
+form button.volver{
+    background-color: #FF32A0;
+}
+.prodhist{
+    background-color: #f5f5f5;
+    border-radius: 30px;
+    margin-left: 60px;
+    margin-top: 60px;
+    width: 300px;
+  padding: 25px;
+}
+.divmensajes{
+    background-color: #f5f5f5;
+    border-radius: 30px;
+    margin-left: 40px;
+    padding: 25px;
+}
+.divmensajes li{
+    padding: 10px;
+    }
+.contmensaje{
+    background-color: #f5f5f5;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 50px;
+    padding: 30px;
+}
+.deseos{
+    background-color: #f5f5f5;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 50px;
+    padding: 30px;
+}
+.deseos li{
+    padding: 30px;
+}
+.podriangustar{
+    background-color: #f5f5f5;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 50px;
+    padding: 30px;
+}
+.podriangustar li{
+    padding: 30px;
+}
+.prodeseos{
+    background-color: #ffffff;
+    margin-top: 30px;
+    border-radius: 40px;
+    width: 500px;
+    margin-left: 50px;
+    padding: 20px;
+
+}
+
+.prodeseos img{
+    border-radius: 30px;
+    margin-left: 79px;
+}
+
+.prodpodrian{
+    background-color: #ffffff;
+    margin-top: 30px;
+    border-radius: 40px;
+    width: 500px;
+    margin-left: 50px;
+    padding: 20px;
+
+}
+
+.prodpodrian img{
+    border-radius: 30px;
+    margin-left: 79px;
+}
+.categorias{
+    background-color: #ffffff;
+    margin-top: 30px;
+    border-radius: 40px;
+    width: 500px;
+    margin-left: 50px;
+    padding: 20px;
+
+}
+
+.categorias img{
+    border-radius: 10px;
+    margin-left: 40px;
+    width: 180px;
+}
+.arte{
+    background-color: #ffffff;
+    margin-top: 30px;
+    border-radius: 40px;
+    width: 500px;
+    margin-left: 50px;
+    padding: 20px;
+
+}
+.arte li{
+    padding: 10px;
+}
+.prodarte{
+    background-color: #ffffff;
+    margin-top: 30px;
+    border-radius: 40px;
+    width: 500px;
+    margin-left: 50px;
+    padding: 20px;
+
+}
+
+.prodarte img{
+    border-radius: 30px;
+    margin-left: 79px;
+}
+.artesania{
+    background-color: #ffffff;
+    margin-top: 30px;
+    border-radius: 40px;
+    width: 500px;
+    margin-left: 50px;
+    padding: 20px;
+
+}
+.artesania li{
+    padding: 10px;
+}
+
+.prodartesania{
+    background-color: #ffffff;
+    margin-top: 30px;
+    border-radius: 40px;
+    width: 500px;
+    margin-left: 50px;
+    padding: 20px;
+
+}
+
+.prodartesania img{
+    border-radius: 30px;
+    margin-left: 79px;
+}
+
+.manual{
+    background-color: #ffffff;
+    margin-top: 30px;
+    border-radius: 40px;
+    width: 500px;
+    margin-left: 50px;
+    padding: 20px;
+
+}
+.manual li{
+    padding: 10px;
+}
+.prodmanual{
+    background-color: #ffffff;
+    margin-top: 30px;
+    border-radius: 40px;
+    width: 500px;
+    margin-left: 50px;
+    padding: 20px;
+
+}
+
+.prodmanual img{
+    border-radius: 30px;
+    margin-left: 79px;
+}
+
+

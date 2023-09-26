@@ -43,7 +43,7 @@
             <button type="button"><a href="/listadeseos"> Volver</a></button>
         </form>
        <form>
-        <div>   <h1>Producto</h1>
+        <div class="prodeseos">   <h1>Producto</h1>
             <h3>Nombre Producto</h3>
             <h4>Descripcion del producto</h4>
             <img src="img/silla.jpg" width="200 px" height="200 px">

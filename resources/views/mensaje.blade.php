@@ -32,7 +32,7 @@
         <button type="button"><a href="/menu"> Volver</a></button>
     </form>
         
-    <ul> 
+    <ul class="divmensajes"> 
         <li><a href="/mensaje-ejemplo">mensaje de usuario 1</a></li>
         <li><a href="/mensaje-ejemplo">mensaje de usuario 2</a></li>
       
