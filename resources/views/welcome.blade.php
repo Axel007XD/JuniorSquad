@@ -23,7 +23,7 @@
 <body>
        <!--Un header para toda la parte de arriba, el encabezado-->
   <nav>
-    <h2 class="Titulo">NIXELAR</h2>
+    <h2 class="Titulo"><a href="Welcome">NIXELAR</a></h2>
  <div class="Barra">
    <form >
     <input placeholder type="text"="Buscar producto o tienda">
