@@ -23,11 +23,11 @@
 <body>
        <!--Un header para toda la parte de arriba, el encabezado-->
   <nav>
-    <h2 class="Titulo"><a href="Welcome">NIXELAR</a></h2>
+    <h2 class="Titulo"><a href="/">NIXELAR</a></h2>
  <div class="Barra">
    <form >
     <input placeholder type="text"="Buscar producto o tienda">
-    <button type="submit">Buscar</button>
+    <button type="submit"><a href="/inicio">Buscar</a></button>
    </form>
 </div>
 <!--Botones que llevan a las otras paginas-->

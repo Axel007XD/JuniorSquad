@@ -40,64 +40,69 @@ Route::get('/historial', function () {
     return view('/historial');
 });
 Route::get('/mensaje', function () {
-    return view('/mensaje');
+    return view('mensaje');
 });
 
 Route::get('/mensaje-ejemplo', function () {
-    return view('/mensaje-ejemplo');
+    return view('mensaje-ejemplo');
 });
 Route::get('/prodhist', function () {
-    return view('/prodhist');
+    return view('prodhist');
 });
 Route::get('/tendencias', function () {
-    return view('/tendencias');
+    return view('tendencias');
 });
 Route::get('/productoten', function () {
-    return view('/productoten');
+    return view('productoten');
 });
 Route::get('/listadeseos', function () {
-    return view('/listadeseos');
+    return view('listadeseos');
 });
 Route::get('/productodeseos', function () {
-    return view('/productodeseos');
+    return view('productodeseos');
 
 });
 Route::get('/podriangustar', function () {
-    return view('/podriangustar');
+    return view('podriangustar');
 });
 
 Route::get('/prodpodrian', function () {
-    return view('/prodpodrian');
+    return view('prodpodrian');
 });
 
 Route::get('/categorias', function () {
-    return view('/categorias');
+    return view('categorias');
 });
 
 Route::get('/arte', function () {
-    return view('/arte');
+    return view('arte');
 });
 
 Route::get('/artesania', function () {
-    return view('/artesania');
+    return view('artesania');
 });
 
 Route::get('/manual', function () {
-    return view('/manual');
+    return view('manual');
 });
 
 Route::get('/prodartesania', function () {
-    return view('/prodartesania');
+    return view('prodartesania');
 });
 Route::get('/prodarte', function () {
-    return view('/prodarte');
+    return view('prodarte');
 });
 Route::get('/prodmanual', function () {
-    return view('/prodmanual');
+    return view('prodmanual');
 });
 Route::get('/prodcarrito', function () {
-    return view('/prodcarrito');
+    return view('prodcarrito');
 });
 
-
+Route::get('/busqueda', function () {
+    return view('busqueda');
+});
+Route::get('/inicio', function () {
+    return view('inicio');
+});
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
